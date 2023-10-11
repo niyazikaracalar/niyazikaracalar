@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niyazikaracalar
-- 👀 I’m interested in Deep Learning and AI
-- 🌱 I’m currently learning Deep Learning, AI and Remote Sensing
-- 💞️ I’m looking to collaborate on Deep Learning
+- 👀 I’m interested in Geodata, Datascience, Deep Learning, AI
+- 🌱 I’m currently learning Geodata and Data science technologies
+- 💞️ I’m looking to collaborate on Geodata
 - 📫 How to reach me: mn.karacalar@gmail.com
 
 <!---
